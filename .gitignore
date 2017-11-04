@@ -1,0 +1,7 @@
+#Stuff to ignore
+#node stuff (we can get up to date version again later)
+node_modules/
+package-lock.json
+
+#minified bundle (we can make this again with browserify)
+bundle.js
